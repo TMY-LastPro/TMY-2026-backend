@@ -11,7 +11,7 @@ class participant extends Model
         'tournament_id',
         'user_id',
         'name',
-        'card_name',
+        'car_name',
         'seed_no',
         'is_checked_in'
     ];

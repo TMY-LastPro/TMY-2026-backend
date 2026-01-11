@@ -11,8 +11,9 @@ class article extends Model
         'title',
         'slug',
         'content',
-        'thumbnail',
+        'thumbnail_url',
         'author_id', // that is user id
+        'gallery',
         'is_published',
         'created_at',
     ];
